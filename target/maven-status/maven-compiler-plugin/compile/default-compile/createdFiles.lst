@@ -1,0 +1,8 @@
+com\senai\engSecurity\service\UserService.class
+com\senai\engSecurity\config\WebSecurityConfig.class
+com\senai\engSecurity\model\User.class
+com\senai\engSecurity\controller\WelcomeController.class
+com\senai\engSecurity\repository\UserRepository.class
+com\senai\engSecurity\controller\UserController.class
+com\senai\engSecurity\EngSecurityApplication.class
+com\senai\engSecurity\config\UserDetailsServiceImpl.class
